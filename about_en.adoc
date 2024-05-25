@@ -1,0 +1,63 @@
+# Dmitry Buldakov
+
+## Contacts
+* *Telegram*: dmibbb
+* *LinkedIn*: dmitry-buldakov
+* *GitHub*: dmibbb
+
+## Experience
+### ACI Worldwide Russia
+
+#### Backend • Principal Software Engineer
+April 2017 — current • Yoshkar-Ola
+
+* *Squad lead of NFR team* (Non-Functional Requirements) in eCommerce (PAY.ON, payment gateway) since January 2020.
+* Onboarded the team of up to 12 people and established the required processes.
+* Main responsibilities: fetch and analyze requirements, create and distribute tasks, review technical solutions and code, automate team activities.
+* NFR team worked on updating major versions of Tomcat and Spring; got rid of old http-client; moved connections to acquirers; added and enhanced monitoring and alerting; etc. with minimal transaction loss. Currently, we are migrating applications to Java 17 and beyond.
+* Helped with the hiring and consequent onboarding of a small team of interns. Developed a connector with them.
+* Moved applications to new data centers. It required validation of 300+ integrations with acquirers and additional modules along with active communication with acquirers, clients, other departments.
+
+Additional roles and responsibilities:
+
+* Gained a lot of experience in incident handling on production from quick fixes to stop the bleeding till further its deep fix.
+* Acted as a scrum-master in terms of ceremonies.
+* As a release manager, prepared production application updates, enhanced release processes that affected the entire product.
+* Helped with migrating and enhancing wiki documentation (top contributor), suggesting docs-as-code approach actively.
+
+#### Backend • Senior Software Engineer
+January 2014 — March 2017 (3 years and 3 months) • Yoshkar-Ola
+
+* Led a dev team responsible for L3 support of online-banking application (defect fixing in ACI Universal Online Banking).
+* Analyzed and fixed complex defects.
+* Developed new functionality for customized banking applications.
+* Technologies: Java, Struts, IBM WebSphere, WebSphere MQ, Oracle DB, IBM DB2.
+
+### Team Force LLC
+#### Backend • Senior Software Engineer
+August 2012 — December 2013 (1 year and 5 months) • Yoshkar-Ola
+
+* Worked on PoC application to migrate databases from Oracle DB to IBM DB2.
+* Led a dev team (up to 14) responsible for L3 support of online-banking application (ACI Universal Online Banking). Main activity: defect fixing.
+* Acted as a mediator between Russian dev team, US-based triage team, and dev teams in India.
+* Technologies: Java, Struts, IBM WebSphere, Oracle DB.
+* As a result of excellent work done, Team Force LLC was acquired by ACI Worldwide.
+
+#### Mobile • Software Engineer
+December 2010 — July 2012 (1 year and 8 months) • Yoshkar-Ola
+
+* Developed mobile applications using Java for J2ME, Android and RIM Blackberry platforms.
+* Led a small team of mobile developers, QE, backend devs.
+
+#### Mobile • Junior Software Engineer
+July 2008 — November 2009 (1 year and 5 months) • Yoshkar-Ola
+
+* Developed mobile applications using Java for J2ME and RIM Blackberry platforms.
+
+## Education
+### PSTU "VOLGATECH" (Volga Region State Technological University (formerly MarSTU))
+September 2004 — June 2009
+
+Yoshkar-Ola • Faculty of Informatics and Computer Science
+
+Engineer specializing in "Computer software and automated systems"
